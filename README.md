@@ -17,6 +17,17 @@
 | +  | -  |
 | big  | small |
 
+graph:
+
+```mermaid
+graph TD;
+    wood-->worctable;
+    wood-->stick;
+    worctable-->sword;
+    worctable-->stick;
+    stick-->torch;
+```
+
 [tap me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
